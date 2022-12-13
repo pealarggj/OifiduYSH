@@ -10,8 +10,6 @@ on:
     paths:
       - '.github/'
       - '.editorconfig'
-      - 'CODE_OF_CONDUCT.md'
-      - 'CONTRIBUTING.md'
       - 'LICENSE'
 
 jobs:
